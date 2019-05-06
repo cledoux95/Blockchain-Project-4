@@ -185,6 +185,7 @@ http://localhost:8000/block/1
     "time": "1552415956",
     "previousHash": "PREVIOUSHASH"
 }
+```
 
 ### GET by block hash (Returns block)
 
